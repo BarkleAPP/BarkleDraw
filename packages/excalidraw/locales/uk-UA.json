@@ -319,9 +319,6 @@
     "link_title": "Доступ за посиланням",
     "link_details": "Експортувати як посилання тільки для читання.",
     "link_button": "Експортувати у посилання",
-    "excalidrawplus_description": "Збережіть сцену у вашому обліковому записі Excalidraw+.",
-    "excalidrawplus_button": "Експортувати",
-    "excalidrawplus_exportError": "Не вдалося експортувати у Excalidraw+..."
   },
   "helpDialog": {
     "blog": "Наш блог",
@@ -496,11 +493,6 @@
         "button": "Зберегти на диск",
         "description": "Експорт даних сцени в файл, з якого можна імпортувати пізніше."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Експортувати до Excalidraw+",
-        "description": "Зберегти сцену до робочого простору Excalidraw+."
-      }
     },
     "modal": {
       "loadFromFile": {

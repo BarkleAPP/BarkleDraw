@@ -56,7 +56,7 @@
     "arrowtype_elbowed": "Elbow arrow",
     "fontSize": "Font size",
     "fontFamily": "Font family",
-    "addWatermark": "Add \"Made with Excalidraw\"",
+    "addWatermark": "Add \"Made with BarkBoard\"",
     "handDrawn": "Hand-drawn",
     "normal": "Normal",
     "code": "Code",
@@ -91,7 +91,7 @@
     "untitled": "Untitled",
     "name": "Name",
     "yourName": "Your name",
-    "madeWithExcalidraw": "Made with Excalidraw",
+    "madeWithExcalidraw": "Made with BarkBoard",
     "group": "Group selection",
     "ungroup": "Ungroup selection",
     "collaborators": "Collaborators",
@@ -121,7 +121,7 @@
     "toggleTheme": "Toggle light/dark theme",
     "theme": "Theme",
     "personalLib": "Personal Library",
-    "excalidrawLib": "Excalidraw Library",
+    "excalidrawLib": "BarkBoard Library",
     "decreaseFontSize": "Decrease font size",
     "increaseFontSize": "Increase font size",
     "unbindText": "Unbind text",
@@ -159,7 +159,7 @@
     "zoomToFitViewport": "Zoom to fit in viewport",
     "zoomToFitSelection": "Zoom to fit selection",
     "zoomToFit": "Zoom to fit all elements",
-    "installPWA": "Install Excalidraw locally (PWA)",
+    "installPWA": "Install BarkBoard locally (PWA)",
     "autoResize": "Enable text auto-resizing",
     "imageCropping": "Image cropping",
     "unCroppedDimension": "Uncropped dimension",
@@ -237,7 +237,7 @@
     "cannotExportEmptyCanvas": "Cannot export empty canvas.",
     "couldNotCopyToClipboard": "Couldn't copy to clipboard.",
     "decryptFailed": "Couldn't decrypt data.",
-    "uploadedSecurly": "The upload has been secured with end-to-end encryption, which means that Excalidraw server and third parties can't read the content.",
+    "uploadedSecurly": "The upload has been secured with end-to-end encryption, which means that BarkBoard server and third parties can't read the content.",
     "loadSceneOverridePrompt": "Loading external drawing will replace your existing content. Do you wish to continue?",
     "collabStopOverridePrompt": "Stopping the session will overwrite your previous, locally stored drawing. Are you sure?\n\n(If you want to keep your local drawing, simply close the browser tab instead.)",
     "errorAddingToLibrary": "Couldn't add item to the library",
@@ -245,7 +245,7 @@
     "confirmAddLibrary": "This will add {{numShapes}} shape(s) to your library. Are you sure?",
     "imageDoesNotContainScene": "This image does not seem to contain any scene data. Have you enabled scene embedding during export?",
     "cannotRestoreFromImage": "Scene couldn't be restored from this image file",
-    "invalidSceneUrl": "Couldn't import scene from the supplied URL. It's either malformed, or doesn't contain valid Excalidraw JSON data.",
+    "invalidSceneUrl": "Couldn't import scene from the supplied URL. It's either malformed, or doesn't contain valid BarkBoard JSON data.",
     "resetLibrary": "This will clear your library. Are you sure?",
     "removeItemsFromsLibrary": "Delete {{count}} item(s) from library?",
     "invalidEncryptionKey": "Encryption key must be of 22 characters. Live collaboration is disabled.",
@@ -300,7 +300,7 @@
     "laser": "Laser pointer",
     "hand": "Hand (panning tool)",
     "extraTools": "More tools",
-    "mermaidToExcalidraw": "Mermaid to Excalidraw",
+    "mermaidToExcalidraw": "Mermaid to BarkBoard",
     "convertElementType": "Toggle shape type"
   },
   "element": {
@@ -377,7 +377,7 @@
     "desc_inProgressIntro": "Live-collaboration session is now in progress.",
     "desc_shareLink": "Share this link with anyone you want to collaborate with:",
     "desc_exitSession": "Stopping the session will disconnect you from the room, but you'll be able to continue working with the scene, locally. Note that this won't affect other people, and they'll still be able to collaborate on their version.",
-    "shareTitle": "Join a live collaboration session on Excalidraw"
+    "shareTitle": "Join a live collaboration session on BarkBoard"
   },
   "errorDialog": {
     "title": "Error"
@@ -388,10 +388,7 @@
     "disk_button": "Save to file",
     "link_title": "Shareable link",
     "link_details": "Export as a read-only link.",
-    "link_button": "Export to Link",
-    "excalidrawplus_description": "Save the scene to your Excalidraw+ workspace.",
-    "excalidrawplus_button": "Export",
-    "excalidrawplus_exportError": "Couldn't export to Excalidraw+ at this moment..."
+    "link_button": "Export to Link"
   },
   "helpDialog": {
     "blog": "Read our blog",
@@ -490,8 +487,8 @@
     }
   },
   "encrypted": {
-    "tooltip": "Your drawings are end-to-end encrypted so Excalidraw's servers will never see them.",
-    "link": "Blog post on end-to-end encryption in Excalidraw"
+    "tooltip": "Your drawings are end-to-end encrypted so Barkles's servers will never see them.",
+    "link": "Blog post on end-to-end encryption in Barkle"
   },
   "stats": {
     "angle": "Angle",
@@ -545,7 +542,7 @@
   "welcomeScreen": {
     "app": {
       "center_heading": "All your data is saved locally in your browser.",
-      "center_heading_plus": "Did you want to go to the Excalidraw+ instead?",
+      "center_heading_plus": "Did you want to go to the Barkle+ instead?",
       "menuHint": "Export, preferences, languages, ..."
     },
     "defaults": {
@@ -574,11 +571,6 @@
         "title": "Save to disk",
         "button": "Save to disk",
         "description": "Export the scene data to a file from which you can import later."
-      },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Export to Excalidraw+",
-        "description": "Save the scene to your Excalidraw+ workspace."
       }
     },
     "modal": {
@@ -595,9 +587,9 @@
     }
   },
   "mermaid": {
-    "title": "Mermaid to Excalidraw",
+    "title": "Mermaid to BarkBoard",
     "button": "Insert",
-    "description": "Currently only <flowchartLink>Flowchart</flowchartLink>,<sequenceLink> Sequence, </sequenceLink> and <classLink>Class </classLink>Diagrams are supported. The other types will be rendered as image in Excalidraw.",
+    "description": "Currently only <flowchartLink>Flowchart</flowchartLink>,<sequenceLink> Sequence, </sequenceLink> and <classLink>Class </classLink>Diagrams are supported. The other types will be rendered as image in BarkBoard.",
     "syntax": "Mermaid Syntax",
     "preview": "Preview"
   },

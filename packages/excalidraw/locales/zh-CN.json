@@ -319,9 +319,6 @@
     "link_title": "分享链接",
     "link_details": "导出为只读链接。",
     "link_button": "导出链接",
-    "excalidrawplus_description": "将画布保存到您的 Excalidraw+ 工作区。",
-    "excalidrawplus_button": "导出",
-    "excalidrawplus_exportError": "暂时无法导出到 Excalidraw+ ..."
   },
   "helpDialog": {
     "blog": "浏览我们的博客",
@@ -496,11 +493,6 @@
         "button": "保存到本地",
         "description": "将画布数据导出为文件，以便以后导入。"
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "导出到 Excalidraw+",
-        "description": "将画布保存到您的 Excalidraw+ 工作区。"
-      }
     },
     "modal": {
       "loadFromFile": {

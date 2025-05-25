@@ -319,9 +319,6 @@
     "link_title": "קבל קישור לשיתוף",
     "link_details": "ייצוא כקישור לקריאה בלבד.",
     "link_button": "ייצוא לקישור",
-    "excalidrawplus_description": "שמור את הקנבאס לסביבת העבודה שלך ב- +Excalidraw.",
-    "excalidrawplus_button": "ייצוא",
-    "excalidrawplus_exportError": "לא הצלחתי לייצא ל- +Excalidraw כרגע..."
   },
   "helpDialog": {
     "blog": "קרא את הבלוג שלנו",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

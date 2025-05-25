@@ -319,9 +319,6 @@
     "link_title": "رابط قابل للمشاركة",
     "link_details": "صدر الملف للمشاهدة فقط.",
     "link_button": "التصدير كرابط",
-    "excalidrawplus_description": "حفظ المشهد إلى مساحة العمل +Excalidraw الخاصة بك.",
-    "excalidrawplus_button": "تصدير",
-    "excalidrawplus_exportError": "تعذر التصدير إلى +Excalidraw في الوقت الحالي..."
   },
   "helpDialog": {
     "blog": "اقرأ مدونتنا",
@@ -496,11 +493,6 @@
         "button": "حفظ الملف للجهاز",
         "description": "تصدير بيانات المشهد إلى ملف يمكنك الاستيراد منه لاحقاً."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "تصدير إلى Excalidraw+",
-        "description": "حفظ المشهد إلى مساحة العمل +Excalidraw الخاصة بك."
-      }
     },
     "modal": {
       "loadFromFile": {

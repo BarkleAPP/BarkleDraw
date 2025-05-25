@@ -319,9 +319,6 @@
     "link_title": "Κοινόχρηστος σύνδεσμος",
     "link_details": "Εξαγωγή ως σύνδεσμο μόνο για ανάγνωση.",
     "link_button": "Εξαγωγή σε Σύνδεση",
-    "excalidrawplus_description": "Αποθηκεύστε τη σκηνή στο χώρο εργασίας σας Excalidraw+.",
-    "excalidrawplus_button": "Εξαγωγή",
-    "excalidrawplus_exportError": "Δεν ήταν δυνατή η εξαγωγή στο Excalidraw+ αυτή τη στιγμή..."
   },
   "helpDialog": {
     "blog": "Διαβάστε το Blog μας",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

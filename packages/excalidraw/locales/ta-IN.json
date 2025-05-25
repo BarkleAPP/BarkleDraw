@@ -319,9 +319,6 @@
     "link_title": "பகிரக்கூடிய தொடுப்பு",
     "link_details": "வாசிக்க-மட்டும் தொடுப்பாக ஏற்றுமதிசெய்.",
     "link_button": "தொடுப்புக்கு ஏற்றுமதிசெய்",
-    "excalidrawplus_description": "காட்சியை உன் எக்ஸ்கேலிட்ரா பணியிடத்தில் சேமி.",
-    "excalidrawplus_button": "ஏற்றுமதி",
-    "excalidrawplus_exportError": "இத்தருணத்தில் எக்ஸ்கேலிட்ரா+ க்கு ஏற்றுமதிசெய்ய முடியவில்லை..."
   },
   "helpDialog": {
     "blog": "எமது வலைப்பூவை வாசி",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

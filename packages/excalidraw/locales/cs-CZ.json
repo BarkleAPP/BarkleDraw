@@ -319,9 +319,6 @@
     "link_title": "Odkaz pro sdílení",
     "link_details": "Exportovat jako odkaz pouze pro čtení.",
     "link_button": "Exportovat do odkazu",
-    "excalidrawplus_description": "Uložit scénu do vašeho pracovního prostoru Excalidraw+.",
-    "excalidrawplus_button": "Exportovat",
-    "excalidrawplus_exportError": "Export do Excalidraw+ se v tuto chvíli nezdařil..."
   },
   "helpDialog": {
     "blog": "Přečtěte si náš blog",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

@@ -319,9 +319,6 @@
     "link_title": "Link do udostępnienia",
     "link_details": "Eksportuj jako link tylko do odczytu.",
     "link_button": "Wygeneruj link",
-    "excalidrawplus_description": "Zapisz scenę do swojego obszaru roboczego Excalidraw+.",
-    "excalidrawplus_button": "Eksportuj",
-    "excalidrawplus_exportError": "W tej chwili nie można wyeksportować do Excalidraw+..."
   },
   "helpDialog": {
     "blog": "Przeczytaj na naszym blogu",
@@ -496,11 +493,6 @@
         "button": "Zapisz na dysku",
         "description": "Eksportuj zawartość sceny jako plik z możliwością importowania."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Eksportuj do Excalidraw+",
-        "description": "Zapisz scenę do swojego obszaru roboczego Excalidraw+."
-      }
     },
     "modal": {
       "loadFromFile": {

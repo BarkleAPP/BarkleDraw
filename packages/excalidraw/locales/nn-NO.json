@@ -319,9 +319,6 @@
     "link_title": "Deleleg lenke",
     "link_details": "Eksporter som skrivebeskytta lenke.",
     "link_button": "Eksporter til lenke",
-    "excalidrawplus_description": "Lagre scena til Excalidraw+-arbeidsområdet ditt.",
-    "excalidrawplus_button": "Eksporter",
-    "excalidrawplus_exportError": "Kunne ikkje eksportere til Excalidraw+ akkurat no..."
   },
   "helpDialog": {
     "blog": "Les bloggen vår",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

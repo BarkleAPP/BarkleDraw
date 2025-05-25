@@ -319,9 +319,6 @@
     "link_title": "Lien partageable",
     "link_details": "Exporter comme un lien en lecture seule.",
     "link_button": "Exporter comme lien",
-    "excalidrawplus_description": "Enregistrer la scène dans votre espace de travail Excalidraw+.",
-    "excalidrawplus_button": "Exporter",
-    "excalidrawplus_exportError": "Impossible d'exporter vers Excalidraw+ pour le moment..."
   },
   "helpDialog": {
     "blog": "Lire notre blog",
@@ -496,11 +493,6 @@
         "button": "Sauvegarder sur le disque",
         "description": "Exporter les données de la scène comme un fichier que vous pourrez importer ultérieurement."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Exporter vers Excalidraw+",
-        "description": "Enregistrer la scène dans votre espace de travail Excalidraw+."
-      }
     },
     "modal": {
       "loadFromFile": {

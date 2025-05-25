@@ -319,9 +319,6 @@
     "link_title": "URL partajabil",
     "link_details": "Exportă ca URL doar în citire.",
     "link_button": "Exportare în URL",
-    "excalidrawplus_description": "Salvează scena în spațiul de lucru Excalidraw+.",
-    "excalidrawplus_button": "Exportare",
-    "excalidrawplus_exportError": "Excalidraw+ nu a putut fi exportat în acest moment..."
   },
   "helpDialog": {
     "blog": "Citește blogul nostru",
@@ -496,11 +493,6 @@
         "button": "Salvare pe disc",
         "description": "Exportă datele scenei pe un fișier din care poți importa mai târziu."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Exportare în Excalidraw+",
-        "description": "Salvează scena în spațiul de lucru Excalidraw+."
-      }
     },
     "modal": {
       "loadFromFile": {

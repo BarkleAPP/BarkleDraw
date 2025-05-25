@@ -319,9 +319,6 @@
     "link_title": "Ортақ сілтеме",
     "link_details": "Тек оқуға арналған сілтеме ретінде экспорттау.",
     "link_button": "Сілтемеге экспорттау",
-    "excalidrawplus_description": "Сахнаны өзіңіздің Excalidraw+ жұмыс кеңістігінде сақтаңыз.",
-    "excalidrawplus_button": "Экспорт",
-    "excalidrawplus_exportError": "Қазіргі уақытта Excalidraw+ үшін экспорттау мүмкін емес..."
   },
   "helpDialog": {
     "blog": "Біздің блогты оқу",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

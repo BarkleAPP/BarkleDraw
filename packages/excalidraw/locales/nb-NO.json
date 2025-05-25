@@ -319,9 +319,6 @@
     "link_title": "Delbar lenke",
     "link_details": "Eksporter som en skrivebeskyttet lenke.",
     "link_button": "Eksporter til lenke",
-    "excalidrawplus_description": "Lagre scenen til ditt Excalidraw+ arbeidsområde.",
-    "excalidrawplus_button": "Eksporter",
-    "excalidrawplus_exportError": "Kunne ikke eksportere til Excalidraw+ for øyeblikket..."
   },
   "helpDialog": {
     "blog": "Les bloggen vår",
@@ -496,11 +493,6 @@
         "button": "Lagre til disk",
         "description": "Eksporter scene-dataene til en fil som du kan importere fra senere."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Eksporter til Excalidraw+",
-        "description": "Lagre scenen til ditt Excalidraw+-arbeidsområde."
-      }
     },
     "modal": {
       "loadFromFile": {

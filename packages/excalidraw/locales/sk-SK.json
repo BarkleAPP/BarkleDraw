@@ -319,9 +319,6 @@
     "link_title": "Odkaz na zdieľanie",
     "link_details": "Exportovať ako odkaz iba na čítanie.",
     "link_button": "Exportovať ako odkaz",
-    "excalidrawplus_description": "Uložiť scénu do vášho Excalidraw+ pracovného priestoru.",
-    "excalidrawplus_button": "Exportovať",
-    "excalidrawplus_exportError": "Nepodarilo sa vykonať export do Excalidraw+..."
   },
   "helpDialog": {
     "blog": "Prečítajte si náš blog",
@@ -496,11 +493,6 @@
         "button": "Uložiť na disk",
         "description": "Exportovať údaje scény do súboru, z ktorého môžu byť neskôr importované."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Exportovať ako Excalidraw+",
-        "description": "Uložiť scénu do vášho Excalidraw+ pracovného priestoru."
-      }
     },
     "modal": {
       "loadFromFile": {

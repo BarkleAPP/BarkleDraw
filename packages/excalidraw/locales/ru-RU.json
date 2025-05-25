@@ -319,9 +319,6 @@
     "link_title": "Поделитесь ссылкой",
     "link_details": "Экспорт ссылки только для чтения.",
     "link_button": "Экспорт в ссылку",
-    "excalidrawplus_description": "Сохраните сцену в ваше рабочее пространство Excalidraw+.",
-    "excalidrawplus_button": "Экспорт",
-    "excalidrawplus_exportError": "Не удалось экспортировать в Excalidraw+ на данный момент..."
   },
   "helpDialog": {
     "blog": "Прочитайте наш блог",
@@ -496,11 +493,6 @@
         "button": "Сохранить на диск",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Экспорт в Excalidraw+",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

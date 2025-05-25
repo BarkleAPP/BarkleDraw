@@ -319,9 +319,6 @@
     "link_title": "لینک قابل اشتراک‌گذاری",
     "link_details": "خروجی به عنوان یک پیوند فقط خواندنی.",
     "link_button": "خروجی در فایل",
-    "excalidrawplus_description": "صحنه را در فضای کاری Excalidraw+ خود ذخیره کنید.",
-    "excalidrawplus_button": "خروجی گرفتن",
-    "excalidrawplus_exportError": "در حال حاضر نمی‌توان به Excalidraw+ صادر کرد..."
   },
   "helpDialog": {
     "blog": "بلاگ ما را بخوانید",
@@ -496,11 +493,6 @@
         "button": "ذخیره در دیسک",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

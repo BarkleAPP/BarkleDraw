@@ -319,9 +319,6 @@
     "link_title": "",
     "link_details": "",
     "link_button": "Siltemege eksportlaw",
-    "excalidrawplus_description": "",
-    "excalidrawplus_button": "Eksportlaw",
-    "excalidrawplus_exportError": ""
   },
   "helpDialog": {
     "blog": "Biziń blogtı oqıń",
@@ -496,11 +493,6 @@
         "button": "Diskke saqlaw",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

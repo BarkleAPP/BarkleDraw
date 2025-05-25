@@ -319,9 +319,6 @@
     "link_title": "Enllaç per a compartir",
     "link_details": "Exporta com a un enllaç de només lectura.",
     "link_button": "Exporta a un enllaç",
-    "excalidrawplus_description": "Desa l'escena en el vostre espai de treball Excalidraw+.",
-    "excalidrawplus_button": "Exporta",
-    "excalidrawplus_exportError": "No és possible exportar a Excalidraw+ ara mateix..."
   },
   "helpDialog": {
     "blog": "Llegiu el nostre blog",
@@ -496,11 +493,6 @@
         "button": "Desa al disc",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

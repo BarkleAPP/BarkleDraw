@@ -319,9 +319,6 @@
     "link_title": "بەستەری هاوبەشیپێکردن",
     "link_details": "ناردن وەک بەستەری تەنها-خوێندنەوە.",
     "link_button": "هەناردەکردن بۆ بەستەر",
-    "excalidrawplus_description": "دیمەنەکە لە شوێنی کارکردنی Excalidraw+ هەڵبگرە.",
-    "excalidrawplus_button": "هەناردەکردن",
-    "excalidrawplus_exportError": "لەم ساتەدا نەتوانرا هەناردە بکرێت بۆ Excalidrow+..."
   },
   "helpDialog": {
     "blog": "بلۆگەکەمان بخوێنەوە",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

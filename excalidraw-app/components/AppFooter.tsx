@@ -1,12 +1,6 @@
 import { Footer } from "@excalidraw/excalidraw/index";
 import React from "react";
 
-import { isExcalidrawPlusSignedUser } from "../app_constants";
-
-import { DebugFooter, isVisualDebuggerEnabled } from "./DebugCanvas";
-import { EncryptedIcon } from "./EncryptedIcon";
-import { ExcalidrawPlusAppLink } from "./ExcalidrawPlusAppLink";
-
 export const AppFooter = React.memo(
   ({ onChange }: { onChange: () => void }) => {
     return (
@@ -17,14 +11,7 @@ export const AppFooter = React.memo(
             gap: ".5rem",
             alignItems: "center",
           }}
-        >
-          {isVisualDebuggerEnabled() && <DebugFooter onChange={onChange} />}
-          {isExcalidrawPlusSignedUser ? (
-            <ExcalidrawPlusAppLink />
-          ) : (
-            <EncryptedIcon />
-          )}
-        </div>
+        ></div>
       </Footer>
     );
   },

@@ -319,9 +319,6 @@
     "link_title": "Tautan",
     "link_details": "Ekspor sebagai tautan yang hanya dibaca.",
     "link_button": "Ekspor ke tautan",
-    "excalidrawplus_description": "Simpan pemandangan ke ruang kerja Excalidraw+ Anda.",
-    "excalidrawplus_button": "Ekspor",
-    "excalidrawplus_exportError": "Tidak dapat ekspor ke Excalidraw+ saat ini..."
   },
   "helpDialog": {
     "blog": "Baca blog kami",
@@ -496,11 +493,6 @@
         "button": "Simpan ke disk",
         "description": "Ekspor data pemandangan ke file yang dapat Anda dapat impor nanti."
       },
-      "excalidrawPlus": {
-        "title": "Excalidraw+",
-        "button": "Ekspor ke Excalidraw+",
-        "description": "Simpan pemandangan ke ruang kerja Excalidraw+ Anda."
-      }
     },
     "modal": {
       "loadFromFile": {

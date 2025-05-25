@@ -319,9 +319,6 @@
     "link_title": "Kopīgošanas saite",
     "link_details": "Eksportēt kā tikai lasāmu saiti.",
     "link_button": "Eksportēt kā saiti",
-    "excalidrawplus_description": "Saglabāt ainu savā Excalidraw+ darbvietā.",
-    "excalidrawplus_button": "Eksportēt",
-    "excalidrawplus_exportError": "Pašreiz nevarēja eksportēt uz Excalidraw+..."
   },
   "helpDialog": {
     "blog": "Lasīt mūsu blogu",
@@ -496,11 +493,6 @@
         "button": "",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {

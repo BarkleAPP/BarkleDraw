@@ -319,9 +319,6 @@
     "link_title": "Link partilhável",
     "link_details": "Exportar como um link de apenas leitura.",
     "link_button": "Exportar para link",
-    "excalidrawplus_description": "Guardar a cena no seu espaço de trabalho Excalidraw+",
-    "excalidrawplus_button": "Exportar",
-    "excalidrawplus_exportError": "Não foi possível exportar para o Excalidraw+ neste momento..."
   },
   "helpDialog": {
     "blog": "Leia o nosso blogue",
@@ -496,11 +493,6 @@
         "button": "Guardar no disco",
         "description": ""
       },
-      "excalidrawPlus": {
-        "title": "",
-        "button": "",
-        "description": ""
-      }
     },
     "modal": {
       "loadFromFile": {
