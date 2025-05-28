@@ -72,6 +72,7 @@ const ALLOWED_DOMAINS = new Set([
   "giphy.com",
   "reddit.com",
   "forms.microsoft.com",
+  "barkle.chat",
 ]);
 
 const ALLOW_SAME_ORIGIN = new Set([
@@ -86,6 +87,7 @@ const ALLOW_SAME_ORIGIN = new Set([
   "stackblitz.com",
   "reddit.com",
   "forms.microsoft.com",
+  "barkle.chat",
 ]);
 
 export const createSrcDoc = (body: string) => {
