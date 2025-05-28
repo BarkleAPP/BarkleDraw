@@ -9,7 +9,6 @@ export const AppWelcomeScreen: React.FC<{
   const { t } = useI18n();
   const headingContent = t("welcomeScreen.app.center_heading");
 
-
   return (
     <WelcomeScreen>
       <WelcomeScreen.Hints.MenuHint>
